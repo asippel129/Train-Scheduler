@@ -9,13 +9,13 @@ In this assignment, you'll create a train schedule application that incorporates
 
 Make sure that your app suits this basic spec:
 
-*When adding trains, administrators should be able to submit the following:
-*Train Name
-*Destination 
-*First Train Time -- in military time
-*Frequency -- in minutes
-*Code this app to calculate when the next train will arrive; this should be relative to the current time.
-*Users from many different machines must be able to view same train times.
+1. When adding trains, administrators should be able to submit the following:
+1. Train Name
+1. Destination 
+1. First Train Time -- in military time
+1. Frequency -- in minutes
+1. Code this app to calculate when the next train will arrive; this should be relative to the current time.
+1. Users from many different machines must be able to view same train times.
 
 **Preview of Application Screenshots**
 Top of the screen:
